@@ -1,0 +1,18 @@
+<scheme name="Standard" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-04-25T12:50:56</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.1.1.0.0</property>
+    <property name="modified">2019-04-25T12:58:04</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="b0d1ab" />
+        <option name="ERROR_STRIPE_COLOR" value="b0d1ab" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

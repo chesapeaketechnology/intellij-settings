@@ -1,0 +1,7 @@
+<application>
+  <component name="JFormDesignerConfigurable">
+    <node name="javacodegenerator">
+      <entry key="setcomponentnames" value="true" />
+    </node>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<templateSet group="Standard">
+  <template name="log4j" value="private static final Logger logger = Logger.getLogger(MethodHandles.lookup().lookupClass());" description="Log4J logger (use in Standard core code)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="logslf4j" value="private static final Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());" description="SLF4J logger (use in standard and other plugins)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
