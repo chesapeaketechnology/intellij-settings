@@ -3,12 +3,32 @@ The common IntelliJ settings used by the development team.
 
 
 ## Usage
-1. Open IntelliJ and select **File > Settings Repository...**
+1. Open IntelliJ and select **File > Manage IDE Settings > Settings Repository...**
    Note: if you don't see this option, you will need to enable the Settings Repository plugin.
    
 2. Copy the clone URL for this repository and paste it as the **Upstream URL**.
 
-3. Click **Overwrite Local**
+3. Click **Overwrite Local**.
+
+4. Once the settings have been loaded, you must select them:
+
+   a. Select **File > Settings...**
+
+   b. Navigate to **Editor > Code Style** and select *standard-intellij.07.2019*.
+
+   c. Navigate to **Editor > Inspections** and select *Standard*.
+   
+   d. Click **OK**.
+   
+5. To avoid having to do this again, set the default settings for new projects:
+
+   a. Select **File > New Project Settings > Settings For New Projects...
+   
+   b. Navigate to **Editor > Code Style** and select *standard-intellij.07.2019*.
+
+   c. Navigate to **Editor > Inspections** and select *Standard*.
+   
+   d. Click **OK**.
 
 
 ## Troubleshooting
